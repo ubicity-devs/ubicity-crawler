@@ -1,13 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package at.ac.ait.ubicity.crawler;
 
-/**
- *
- * @author jan
- */
-public class UbicityCrawler {
-    
+import at.ac.ait.ubicity.commons.interfaces.UbicityPlugin;
+
+public interface UbicityCrawler extends UbicityPlugin {
+
 }
